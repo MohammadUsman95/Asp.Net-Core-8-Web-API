@@ -4,5 +4,4 @@
 - Web API | ASP.NET CORE | RESTFUL API
 - C#
 - Postman (API Testing)
-- Visual Studio / VS Code
-- 
+- Visual Studio / VS Code.
